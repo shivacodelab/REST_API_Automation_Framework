@@ -31,6 +31,12 @@
   	</classes>
   </test>
   
+  <test name="Product Data Driven">
+  	<classes>
+  		<class name="testcases.ProductDataDrivenTest"></class>
+  	</classes>
+  </test>
+  
   <test name="Schema Validation">
   	<classes>
   		<class name="testcases.SchemaTests"></class>

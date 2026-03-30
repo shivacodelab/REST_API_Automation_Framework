@@ -175,6 +175,7 @@ public class CartTests extends BaseClass {
             .body("userId", notNullValue())
 			.body("products.size()", equalTo(1));;
 	}
+	
 	@Test
 	public void deleteCart() {
 		
