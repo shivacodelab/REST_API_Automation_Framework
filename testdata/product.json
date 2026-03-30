@@ -33,5 +33,12 @@
 		"description": "Waterproof Bluetooth speaker with 12-hour battery life.",
 		"image": "https://i.pravatar.cc/104",
 		"category": "audio"
+	},
+	{
+		"title": "Gaming Laptopm",
+		"price": 120.00,
+		"description": "Legion 5 Gen 10, 38.86cms - AMD",
+		"image": "https://p2-ofp.static.pub//fes/cms/2025/05/13/k2yxxari1heoktcik6cl87v8z1w71j930470.png?width=400&height=400",
+		"category": "electronics"
 	}
 ]
